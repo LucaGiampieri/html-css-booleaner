@@ -1,0 +1,20 @@
+.container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: 30%;
+    height: 100px;
+    width: auto;
+    line-height: 100px;
+}
+
+#logo {
+
+    height: 50px;
+    width: auto;
+    vertical-align: middle;
+}
